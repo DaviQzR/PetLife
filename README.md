@@ -1,13 +1,13 @@
 # PetLife
 
 **PetLife** é uma plataforma web projetada para oferecer cuidados completos para seus pets. O site oferece uma interface moderna e intuitiva que conecta os usuários a serviços de clínica veterinária, petshop e farmácia, garantindo o bem-estar e a felicidade dos animais de estimação.
+  Este é um projeto simples desenvolvido como meu primeiro site. Utiliza HTML e CSS puros, e é um exemplo de como criar uma página web com uma estrutura básica. Foi uma excelente oportunidade para aprender e experimentar com a construção de páginas web.
 
 ## Índice
 
 - [Descrição](#descrição)
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias](#tecnologias)
-- [Sobre](#sobre)
 
 ---
 
@@ -43,10 +43,4 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
----
 
-## Sobre
-
-Este é um projeto simples desenvolvido como meu primeiro site. Utiliza HTML e CSS puros, e é um exemplo de como criar uma página web com uma estrutura básica. Foi uma excelente oportunidade para aprender e experimentar com a construção de páginas web.
-
----
